@@ -15,7 +15,7 @@
 do desenvolvimento de artefatos. <BR>
 [Desafio da Jornada de Análise de Negócio Ágil](https://github.com/Rildosan/iHealthFood-AA)
 
-**Desafio 3** - Para Analistas de Negócio, que estão atuando como Analista de Requisitos de Software que querem aprender com gerenciar os requisitos ágeis de software de valor.<BR>
+**Desafio 3** - Para Analistas de Negócio, que estão atuando como Analista de Requisitos de Software que querem aprender como gerenciar e especificar requisitos ágeis de software de valor.<BR>
 [Desafio da Jornada de Análise de Requisitos Ágil de Software](https://github.com/Rildosan/iHeathFood-AR)
 
 
