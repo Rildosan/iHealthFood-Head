@@ -11,11 +11,11 @@
 **Desafio 1** - Para Analistas de Negócio que querem aprender como construir uma solução de negócio que gera valor aplicando técnicas de Análise de Negócio através do desenvolvimento de artefatos. <BR>
 [Desafio da Jornada de Análise de Negócio](https://github.com/Rildosan/iHealthFood-AN) 
 
-**Desafio 2** - Para Analistas de Negócio Ágil que querem aprender como construir uma solução de negócio que gera valor aplicando as técnicas de análise de negócio e práticas ágeis com  abordagem Discovery e Design de soluções de negócio 
+**Desafio 2** - Para Analistas de Negócio Ágil que querem aprender como construir uma solução de negócio que gera valor aplicando as técnicas de Análise de Negócio e Práticas Ágeis com  abordagem **Discovery e Design** para construir soluções de negócio através 
 do desenvolvimento de artefatos. <BR>
 [Desafio da Jornada de Análise de Negócio Ágil](https://github.com/Rildosan/iHealthFood-AA)
 
-**Desafio 3** - Para Analista e Negócio, que estão atuando como Analista de Requisitos de Software que aprender com gerenciar os requisitos de software em ambiente ágeis.<BR>
+**Desafio 3** - Para Analistas de Negócio, que estão atuando como Analista de Requisitos de Software que querem aprender com gerenciar os requisitos ágeis de software de valor.<BR>
 [Desafio da Jornada de Análise de Requisitos Ágil de Software](https://github.com/Rildosan/iHeathFood-AR)
 
 
